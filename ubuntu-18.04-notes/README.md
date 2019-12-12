@@ -42,4 +42,5 @@ chrome://flags/#smooth-scrolling
 #### scroll speed adjustment
 https://askubuntu.com/questions/1030678/speeding-up-the-mouse-wheel-in-ubuntu-18-04 
 
-
+#### Disable animations
+![image](https://raw.githubusercontent.com/vicb1/miscellaneous-notes/master/ubuntu-18.04-notes/disable-animations.png)
