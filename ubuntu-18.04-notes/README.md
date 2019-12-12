@@ -16,8 +16,11 @@ CTRL+Prtscrn key: `gnome-screenshot -a –file=[FILENAME]`
 - https://developer.nvidia.com/cuda-downloads?target_os=Linux&target_arch=x86_64&target_distro=Ubuntu&target_version=1804&target_type=debnetwork 
 - https://hackernoon.com/up-and-running-with-ubuntu-nvidia-cuda-cudnn-tensorflow-and-pytorch-a54ec2ec907d 
 - https://developer.nvidia.com/rdp/cudnn-download 
+- https://developer.nvidia.com/cuda-gpus
+- http://timdettmers.com/2018/12/16/deep-learning-hardware-guide/  
+- https://medium.com/deep-learning-turkey/google-colab-free-gpu-tutorial-e113627b9f5d  
  
-#### Nvidia 1030 GPU install
+#### Nvidia 1030 GPU install - not standard
 `wget https://developer.nvidia.com/compute/cuda/8.0/Prod2/local_installers/cuda_8.0.61_375.26_linux-run`
 `chmod +x cuda_8.0.61_375.26_linux-run`<br>
 `sudo ./cuda_8.0.61_375.26_linux-run --silent --toolkit --samples`<br>
