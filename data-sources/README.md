@@ -1,16 +1,12 @@
 # data-sources
 
-## See the folders in this directory for various data sources.
-
-## Below are also other resources for other datasources:
-
 - [UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/index.php) An online repository of data sets that can be used for machine learning experiments. 
 - [Stanford Large Network Dataset](http://snap.stanford.edu/data/) Dataset of large social and information networks. 
 - [Vision Benchmark Suite](http://www.cvlibs.net/datasets/kitti/index.php) Autonomous car dataset 
 
-### [Other datasets:](https://kevinchai.net/datasets)
+## [Other datasets:](https://kevinchai.net/datasets)
 
-## Blog articles which provide dataset directories
+### Blog articles which provide dataset directories
 
 [http://conflate.net/inductio/2008/02/a-meta-index-of-data-sets/](http://conflate.net/inductio/2008/02/a-meta-index-of-data-sets/) – excellent article listing available data sets in the area of machine learning and inference  
 [http://www.datawrangling.com/some-datasets-available-on-the-web.html](http://www.datawrangling.com/some-datasets-available-on-the-web.html)  
@@ -20,7 +16,7 @@
 [http://www.readwriteweb.com/archives/where_to_find_open_data_on_the.php](http://www.readwriteweb.com/archives/where_to_find_open_data_on_the.php) – Article containing a list of available dataset websites  
 [http://rs.io/2014/05/29/list-of-data-sets.html](http://rs.io/2014/05/29/list-of-data-sets.html) – Article describing 100+ datasets
 
-## Dataset directories
+### Dataset directories
 
 [http://www.quora.com/Data/Where-can-I-get-large-datasets-open-to-the-public](http://www.quora.com/Data/Where-can-I-get-large-datasets-open-to-the-public) – Public datasets listed on a Quora Q&A thread.  
 [http://caw2.barcelonamedia.org/node/7](http://caw2.barcelonamedia.org/node/7) – Content Analysis for the Web 2.0 (CAW 2.0) Workshop – part of 18th International Conference of the World Wide Web. Contains training and test datasets from Twitter, MySpace, Slashdot, Ciao and Kongregate.  
@@ -43,7 +39,7 @@
 [http://wikiposit.com](http://wikiposit.com)  
 [http://gsociology.icaap.org/dataupload.html](http://gsociology.icaap.org/dataupload.html) – The Global Social Change Research Project – social, political and economic datasets
 
-## Data sets for a specific field
+### Data sets for a specific field
 
 [http://kaggle.com/](http://kaggle.com) <a>– machine learning competitions with data provided by organisations with prize money</a>[http://theinfo.org/get/data](http://theinfo.org/get/data) <a>– good list here – pay attention to web/news/blogs and Text/Language categories as well as trust network data</a>[http://research.microsoft.com/nlp/](http://research.microsoft.com/nlp/) <a>– look under data sets</a>[http://nlp.stanford.edu/links/statnlp.html](http://nlp.stanford.edu/links/statnlp.html) <a>– look under corpora</a>[http://trec.nist.gov/data/reuters/reuters.html](http://trec.nist.gov/data/reuters/reuters.html) <a>– Reuters Corpora – contains large collection of news stories for use in Natural Language Processing, Information Retrieval and Machine Learning Systems (need to order CDs)</a>
 
@@ -70,45 +66,45 @@
 [http://people.csail.mit.edu/jrennie/20Newsgroups/](http://people.csail.mit.edu/jrennie/20Newsgroups/) – newsgroup dataset  
 [http://www.yr-bcn.es/webspam/datasets/](http://www.yr-bcn.es/webspam/datasets/) – Webspam datasets
 
-## Link Analysis / Social Networks
+### Link Analysis / Social Networks
 
 [http://www.cs.toronto.edu/~tsap/experiments/datasets/index.html](http://www.cs.toronto.edu/~tsap/experiments/datasets/index.html)  
 [http://www.cs.toronto.edu/~tsap/experiments/download/download.html](http://www.cs.toronto.edu/~tsap/experiments/download/download.html)  
 [http://strict.dista.uninsubria.it/?p=364](http://strict.dista.uninsubria.it/?p=364) – Twitter dataset – friends network for 2009 and 2013
 
-## Natural Language Processing
+### Natural Language Processing
 
 [http://www.certifiedchinesetranslation.com/openaccess/WordNet/](http://www.certifiedchinesetranslation.com/openaccess/WordNet/) – Multilingual WordNet List containing many languages
 
-## Recommender systems
+### Recommender systems
 
 [http://www.grouplens.org/](http://www.grouplens.org/) – MovieLens  
 [http://www.ieor.berkeley.edu/~goldberg/jester-data/](http://www.ieor.berkeley.edu/~goldberg/jester-data/) – Jester  
 [http://www.netflixprize.com/](http://www.netflixprize.com/) – Netflix  
 [http://www.informatik.uni-freiburg.de/~cziegler/BX/](http://www.informatik.uni-freiburg.de/~cziegler/BX/) – Book Crossing
 
-## Forums
+### Forums
 
 [http://weimo.de/node/642](http://weimo.de/node/642) – Nabble.com + user ratings of posts
 
-## Blogs
+### Blogs
 
 [http://ebiquity.umbc.edu/resource/html/id/212/Splog-Blog-Dataset](http://ebiquity.umbc.edu/resource/html/id/212/Splog-Blog-Dataset) – Spam blogs (splogs)  
 [http://www.icwsm.org/data.html](http://www.icwsm.org/data.html) – 14 million posts, 3 million weblogs – apparently no longer available since Dec 8, 2006  
 [http://ir.dcs.gla.ac.uk/test_collections/blog06info.html](http://ir.dcs.gla.ac.uk/test_collections/blog06info.html) – but costs 400 GBP!
 
-## Wikis
+### Wikis
 
 [http://labs.systemone.at/wikipedia3](http://labs.systemone.at/wikipedia3) – wikipedia 3 providing wikipedia datasets  
 [http://download.wikipedia.org/](http://download.wikipedia.org/) – official wikipedia database dumps (very large)  
 [http://download.freebase.com/wex/](http://download.freebase.com/wex/) – English wikipedia articles that have been transformed into XML – all files ~ 55GB  
 [http://dbpedia.org/About](http://dbpedia.org/About) – structured information from wikipedia – dataset of this is available
 
-## Webpages
+### Webpages
 
 [http://www.archive.org/web/web.php](http://www.archive.org/web/web.php) – 85 billion webpages archived since 1996
 
-## Misc
+### Misc
 
 [http://opentick.com/](http://opentick.com/) – Stock data  
 [http://lib.stat.cmu.edu/datasets/](http://lib.stat.cmu.edu/datasets/) – miscellaneous datasets  
