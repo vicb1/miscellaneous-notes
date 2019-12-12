@@ -1,5 +1,6 @@
 # data-sources
 
+- https://www.kaggle.com/datasets
 - [UCI Machine Learning Repository](http://archive.ics.uci.edu/ml/index.php) An online repository of data sets that can be used for machine learning experiments. 
 - [Stanford Large Network Dataset](http://snap.stanford.edu/data/) Dataset of large social and information networks. 
 - [Vision Benchmark Suite](http://www.cvlibs.net/datasets/kitti/index.php) Autonomous car dataset 
