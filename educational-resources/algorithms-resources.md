@@ -11,20 +11,14 @@
 1. https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/
 
 ### exercises
-- https://www.careercup.com/page
 - https://leetcode.com/ (c++ and java, good explanations)
 - https://www.geeksforgeeks.org/fundamentals-of-algorithms/
 - https://www.hackerrank.com/onboarding/challenge
-- https://cses.fi/book/book.pdf
 - https://codingcompetitions.withgoogle.com/kickstart/round/0000000000051060/00000000000588f4
 - [Project Euler](https://projecteuler.net/): This website has a ton of logic problems that you can practice writing coded solutions to.
-- [Interview Cake](https://www.interviewcake.com/): Practice questions and some tutorials available.
 - [Interactive Python](http://interactivepython.org/runestone/static/pythonds/index.html): Loads of tutorials on pretty much every topic covered here and many more, along with Python examples and concept questions.
 - [Topcoder](https://www.topcoder.com/): New practice problems every day, and some tech companies use answers to those problems to find new potential hires.
 - [LeetCode](https://leetcode.com/): Practice problems, mock interviews, and articles about problems.
-- [github The Coding Interview](https://github.com/mre/the-coding-interview)
-- [github HTML5 Boilerplate Interview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
-- https://sites.google.com/site/steveyegge2/five-essential-phone-screen-questions
 
 ### CLRS solutions
 - https://walkccc.github.io/CLRS/Chap01/1.1/
