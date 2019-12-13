@@ -5,6 +5,7 @@
 1. https://www.udemy.com/python-for-data-structures-algorithms-and-interviews/learn/lecture/3144000#overview
 1. https://courses.edx.org/courses/course-v1:GTx+CS1301xIV+1T2019/course/
 1. graph algos: https://www.udacity.com/course/intro-to-algorithms--cs215
+1. graph theory course: https://www.freecodecamp.org/news/learn-graph-theory-algorithms-from-a-google-engineer/
 1. [Intro to Theoretical Computer Science](https://www.udacity.com/course/intro-to-theoretical-computer-science--cs313)
 1. [Computability, Complexity & Algorithms](https://www.udacity.com/course/computability-complexity-algorithms--ud061)
 1. [Intro to Graduate Algorithms](https://www.udacity.com/course/introduction-to-graduate-algorithms--ud401)
@@ -41,6 +42,7 @@
 - Elements of Programming Interviews by Adnan Aziz
 
 ### articles
+- [graph theory visualization](https://d3gt.com/unit.html?k-colorable)
 - https://www.geeksforgeeks.org/fundamentals-of-algorithms/#AnalysisofAlgorithms
 - https://en.wikipedia.org/wiki/Longest_common_subsequence_problem
 - https://en.wikipedia.org/wiki/Longest_common_substring_problem
