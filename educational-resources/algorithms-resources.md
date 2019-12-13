@@ -8,9 +8,8 @@
 1. graph theory course: https://www.freecodecamp.org/news/learn-graph-theory-algorithms-from-a-google-engineer/
 1. [Intro to Theoretical Computer Science](https://www.udacity.com/course/intro-to-theoretical-computer-science--cs313)
 1. [Computability, Complexity & Algorithms](https://www.udacity.com/course/computability-complexity-algorithms--ud061)
-1. [Intro to Graduate Algorithms](https://www.udacity.com/course/introduction-to-graduate-algorithms--ud401)
 1. [High Performance Computing](https://www.udacity.com/course/high-performance-computing--ud281)
-
+1. https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/
 
 ### exercises
 - https://www.careercup.com/page
@@ -53,7 +52,6 @@
 - https://en.wikipedia.org/wiki/Greedy_algorithm
 - https://docs.python.org/2/library/collections.html#collections.namedtuple
 - https://en.wikipedia.org/wiki/Linear_programming
-- https://blog.usejournal.com/top-50-dynamic-programming-practice-problems-4208fed71aa3
 - https://www.rapidtables.com/math/algebra/logarithm/Logarithm_Rules.html
 - https://kirkbrunson.com/graduate-algorithms/
 - https://quizlet.com/class/7776995/
@@ -61,3 +59,25 @@
 - https://en.wikipedia.org/wiki/Bayes%27_theorem 
 - https://www.mathsisfun.com/combinatorics/combinations-permutations.html 
 - https://www.mathsisfun.com/data/index.html 
+
+### Dynamic programming
+- https://patterns.eecs.berkeley.edu/?page_id=416
+- https://www.youtube.com/playlist?list=PLrmLmBdmIlpsHaNTPP_jHHDx_os9ItYXr
+- https://www.quora.com/What-are-the-top-10-most-popular-dynamic-programming-problems-among-interviewers
+- https://www.geeksforgeeks.org/top-20-dynamic-programming-interview-questions/
+- https://blog.usejournal.com/top-50-dynamic-programming-practice-problems-4208fed71aa3
+
+### NP completness
+
+
+### [Intro to Graduate Algorithms](https://www.udacity.com/course/introduction-to-graduate-algorithms--ud401)
+- [Bloom filters](https://www.youtube.com/playlist?list=PLh3YtBkyU3oqzNTTmjOn-vl8Jbo6T_AVt)
+- [Graphs](https://www.youtube.com/playlist?list=PLh3YtBkyU3orK99jfmPlQDIC_g-gD87mI)
+  - https://patterns.eecs.berkeley.edu/?page_id=206
+- [MaxFlow](https://www.youtube.com/playlist?list=PLh3YtBkyU3oqaMVoF-EbaqK1xqLv948V_)
+- [Linear Programming](https://www.youtube.com/playlist?list=PLh3YtBkyU3oohjEp533ScBYUh-hIP2gU6)
+  - https://www.math.ucla.edu/~tom/LP.pdf
+- [NP Completeness](https://www.youtube.com/playlist?list=PLh3YtBkyU3oqZO7NOjbjlA-Jz7vZv40_2)
+  - Extra lectures on complexity and reductions: [here](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-videos/lecture-16-complexity-p-np-np-completeness-reductions/) & [here](https://www.youtube.com/watch?v=YX40hbAHx3s)
+  - [Limits to Computing](https://www.ida.liu.se/opendsa/OpenDSA/Books/Everything/html/index.html#limits-to-computing)
+  - Other notes: [here](https://ocw.mit.edu/courses/electrical-engineering-and-computer-science/6-046j-design-and-analysis-of-algorithms-spring-2015/lecture-videos/lecture-16-complexity-p-np-np-completeness-reductions) & [here](https://drive.google.com/open?id=1qGqq0pflWUA15B0d47wNsTdVbAUCx1kv)
