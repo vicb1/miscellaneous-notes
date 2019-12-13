@@ -1,4 +1,3 @@
-
 ### courses
 1. https://classroom.udacity.com/courses/ud513
 1. https://www.udemy.com/algorithms-and-data-structures-in-python/learn/lecture/2716798#overview
@@ -66,8 +65,6 @@
 - https://www.quora.com/What-are-the-top-10-most-popular-dynamic-programming-problems-among-interviewers
 - https://www.geeksforgeeks.org/top-20-dynamic-programming-interview-questions/
 - https://blog.usejournal.com/top-50-dynamic-programming-practice-problems-4208fed71aa3
-
-### NP completness
 
 
 ### [Intro to Graduate Algorithms](https://www.udacity.com/course/introduction-to-graduate-algorithms--ud401)
