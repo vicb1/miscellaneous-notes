@@ -53,7 +53,7 @@
 * [Seattle Library Checkout Records](https://www.kaggle.com/seattle-public-library/seattle-library-checkout-records)
 
 
-## [Dataset list #2:](https://kevinchai.net/datasets)
+## [Dataset list #3:](https://kevinchai.net/datasets)
 
 ### Blog articles which provide dataset directories
 
