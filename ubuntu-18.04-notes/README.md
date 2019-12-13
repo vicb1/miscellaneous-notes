@@ -30,6 +30,10 @@ CTRL+Prtscrn key: `gnome-screenshot -a –file=[FILENAME]`
 Additional resource:
 - https://medium.com/@samnco/using-the-nvidia-gt-1030-for-cuda-workloads-on-ubuntu-16-04-4eee72d56791 
 
+#### Nvidia on Docker
+- https://medium.com/the-artificial-impostor/docker-nvidia-gpu-nvidia-docker-808b23e1657
+- https://github.com/NVIDIA/nvidia-docker/wiki/Frequently-Asked-Questions#setting-up
+
 #### Anaconda install resources
 - https://www.digitalocean.com/community/tutorials/how-to-install-the-anaconda-python-distribution-on-ubuntu-18-04
 
