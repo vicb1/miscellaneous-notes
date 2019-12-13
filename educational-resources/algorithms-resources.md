@@ -45,7 +45,6 @@
 - https://en.wikipedia.org/wiki/Greedy_algorithm
 - https://docs.python.org/2/library/collections.html#collections.namedtuple
 - https://en.wikipedia.org/wiki/Linear_programming
-- https://www.rapidtables.com/math/algebra/logarithm/Logarithm_Rules.html
 - https://kirkbrunson.com/graduate-algorithms/
 - https://quizlet.com/class/7776995/
 - https://en.wikipedia.org/wiki/Probability 
