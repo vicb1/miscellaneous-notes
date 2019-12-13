@@ -37,6 +37,7 @@
 - [sorting algorithms](https://en.wikipedia.org/wiki/Sorting_algorithm#Comparison_of_algorithms)
 
 ### books
+- https://www.cs.princeton.edu/~wayne/kleinberg-tardos/
 - https://en.wikibooks.org/wiki/Algorithms/Mathematical_Background
 - Cracking the Coding Interview by Gayle Laakmann McDowell
 - Introduction to Algorithms by Charles E. Leiserson, Clifford Stein, Ronald Rivest, and Thomas H. Cormen
@@ -52,4 +53,11 @@
 - https://en.wikipedia.org/wiki/Greedy_algorithm
 - https://docs.python.org/2/library/collections.html#collections.namedtuple
 - https://en.wikipedia.org/wiki/Linear_programming
-
+- https://blog.usejournal.com/top-50-dynamic-programming-practice-problems-4208fed71aa3
+- https://www.rapidtables.com/math/algebra/logarithm/Logarithm_Rules.html
+- https://kirkbrunson.com/graduate-algorithms/
+- https://quizlet.com/class/7776995/
+- https://en.wikipedia.org/wiki/Probability 
+- https://en.wikipedia.org/wiki/Bayes%27_theorem 
+- https://www.mathsisfun.com/combinatorics/combinations-permutations.html 
+- https://www.mathsisfun.com/data/index.html 
