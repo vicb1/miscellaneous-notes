@@ -28,10 +28,13 @@
 - [github HTML5 Boilerplate Interview Questions](https://github.com/h5bp/Front-end-Developer-Interview-Questions)
 - https://sites.google.com/site/steveyegge2/five-essential-phone-screen-questions
 
+### CLRS solutions
+- https://walkccc.github.io/CLRS/Chap01/1.1/
+
 ### references
 - [BigO Cheat Sheet](http://bigocheatsheet.com/): Summary of efficiencies for most common algorithms and data structures.
 - [python time complexities of functions](https://wiki.python.org/moin/TimeComplexity)
-- [algorithms](https://en.wikipedia.org/wiki/Sorting_algorithm#Comparison_of_algorithms)
+- [sorting algorithms](https://en.wikipedia.org/wiki/Sorting_algorithm#Comparison_of_algorithms)
 
 ### books
 - https://en.wikibooks.org/wiki/Algorithms/Mathematical_Background
