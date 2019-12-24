@@ -7,8 +7,3 @@
 
 #### install package from Git repository
 `pip install -e git+https://github.com/hiive/hiivemdptoolbox#egg=hiive.mdptoolbox`
-
-
-
-
-`git clone --mirror https://github.com/vicb1/computer-vision`<br>
