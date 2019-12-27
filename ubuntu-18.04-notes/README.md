@@ -49,5 +49,13 @@ chrome://flags/#smooth-scrolling
 #### scroll speed adjustment
 https://askubuntu.com/questions/1030678/speeding-up-the-mouse-wheel-in-ubuntu-18-04 
 
+#### virtual monitor
+`sudo apt-cache search video-dummy`<br>
+`sudo chmod 777 /usr/share/X11/xorg.conf.d`<br>
+- Create file /usr/share/X11/xorg.conf.d/xorg.conf
+- https://askubuntu.com/questions/453109/add-fake-display-when-no-monitor-is-plugged-in
+`sudo chmod -R 777  xorg.conf.d/`
+
+
 #### Disable animations
 ![image](https://raw.githubusercontent.com/vicb1/miscellaneous-notes/master/ubuntu-18.04-notes/disable-animations.png)
