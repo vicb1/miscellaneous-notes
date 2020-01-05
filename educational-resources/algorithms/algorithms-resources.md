@@ -1,6 +1,6 @@
 ### courses
 1. https://www.udemy.com/course/graph-theory-algorithms/learn/lecture/10794156?start=90#questions 
-  - also found here: https://www.youtube.com/watch?v=09_LlHjoEiY
+   - also found here: https://www.youtube.com/watch?v=09_LlHjoEiY
 1. https://www.udemy.com/course/introduction-to-data-structures/learn/lecture/7260674?start=0#overview 
 1. https://classroom.udacity.com/courses/ud513
 1. https://www.udemy.com/algorithms-and-data-structures-in-python/learn/lecture/2716798#overview
