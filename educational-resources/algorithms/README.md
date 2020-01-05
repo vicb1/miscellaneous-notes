@@ -1,3 +1,5 @@
+# Algorithms Resources
+
 ### courses
 1. https://www.udemy.com/course/graph-theory-algorithms/learn/lecture/10794156?start=90#questions 
    - also found here: https://www.youtube.com/watch?v=09_LlHjoEiY
