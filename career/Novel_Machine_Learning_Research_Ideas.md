@@ -10,8 +10,8 @@
 - KNN that weighs the importance of different features, because normally all features are weighted equally 
 - Locally weighted regression - could run linear regression, neural network, etc. on a neighborhood of KNN points, and repeat for each neighborhood  
 - Naïve Bayes Learner where it can map dependent variables with a confidence on how dependent they are
-- Bayes network with undirected graphs 
 - Naïve bayes with weights for different features, so it can minimze issues with double counting potentially dependent attributes 
+- Neural networks with different optimizers for back-propagation
 
 ## Bell curve formula, supporting Normalization equation regression idea above
 
