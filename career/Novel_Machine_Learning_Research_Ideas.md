@@ -11,7 +11,7 @@
 - Locally weighted regression - could run linear regression, neural network, etc. on a neighborhood of KNN points, and repeat for each neighborhood  
 - Naïve Bayes Learner where it can map dependent variables with a confidence on how dependent they are
 - Naïve bayes with weights for different features, so it can minimze issues with double counting potentially dependent attributes 
-- Neural networks with different optimizers for back-propagation
+- Neural networks with different optimizers for back-propagation, possibly taking advantage of discrete optimizers instead of continuous gradient descent optimizers
 
 ## Bell curve formula, supporting Normalization equation regression idea above
 
