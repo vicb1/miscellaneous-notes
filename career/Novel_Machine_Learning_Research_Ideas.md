@@ -12,6 +12,15 @@
 - Naïve Bayes Learner where it can map dependent variables with a confidence on how dependent they are
 - Naïve bayes with weights for different features, so it can minimze issues with double counting potentially dependent attributes 
 - Neural networks with different optimizers for back-propagation, possibly taking advantage of discrete optimizers instead of continuous gradient descent optimizers
+- Use the powerful deep learning sequence model, Bidirectional Recurrent Neural Network (BRNN) with Long Short-Term Memory (LSTM) nodes or Gated Recurrent Unit (GRU) nodes for robotic planning applications
+    - Compare this with deep reinforcement learning models
+- Have multiple agents interacting together by either expanding outputs of one neural network or using multiple feedback connections between agents.  
+- If any algorithm is promising, simulate in ROS with Gazebo, such as these deep reinforcement learning examples:
+    - https://github.com/AcutronicRobotics/gym-gazebo2
+        - https://github.com/AcutronicRobotics/ros2_documentation
+        - https://github.com/erlerobot/gym-gazebo
+    - https://rds.theconstructsim.com/r/theconstruct/cartpole3d_openai_ros_deepq/
+
 
 ## Bell curve formula, supporting Normalization equation regression idea above
 
