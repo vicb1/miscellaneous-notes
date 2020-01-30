@@ -37,9 +37,5 @@ Bell curve formula equation and parameter interaction:
 - with skew only:
     - 2\cdot\frac{1}{\sqrt{2\cdot\pi}}\cdot e^{-\frac{\left(x\right)^2}{2}}\cdot\frac{1}{2}\left(1+\operatorname{erf}\left(\frac{k\cdot x}{\sqrt{2}}\right)\right)
 
-### References:
-- https://en.wikipedia.org/wiki/Skew_normal_distribution
-- https://www.thoughtco.com/normal-distribution-bell-curve-formula-3126278
-- https://www.originlab.com/doc/Origin-Help/Gaussian-Function-FitFunc
-- https://math.stackexchange.com/questions/1128781/whats-the-formula-for-the-probability-density-function-of-skewed-normal-distribu
+#### References:
 - https://en.wikipedia.org/wiki/Skew_normal_distribution
