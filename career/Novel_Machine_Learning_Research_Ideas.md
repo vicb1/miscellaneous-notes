@@ -20,7 +20,10 @@
         - https://github.com/AcutronicRobotics/ros2_documentation
         - https://github.com/erlerobot/gym-gazebo
     - https://rds.theconstructsim.com/r/theconstruct/cartpole3d_openai_ros_deepq/
-
+- If any ROS simulations are successful, convert ROS to real time system on Raspberry Pi
+    - https://roscon.ros.org/2015/presentations/RealtimeROS2.pdf
+    - https://design.ros2.org/articles/realtime_background.html
+    - https://www.youtube.com/watch?v=iLiI_IRedhI
 
 ## Bell curve formula, supporting Normalization equation regression idea above
 
