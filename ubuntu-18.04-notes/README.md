@@ -16,9 +16,9 @@ https://www.jetbrains.com/help/pycharm/installation-guide.html#
 install "Hide top bar" software
 
 #### Add new keyboard shortcut for taking screenshot and copy to clipboard
-Prtscrn key: `gnome-screenshot –ac`
+Prtscrn key: `gnome-screenshot –ac` or `gnome-screenshot -ac -a –file=[FILENAME]`
 
-#### Add new keyboard shortcut for taking screenshot and copy to clipboard
+#### Add new keyboard shortcut for taking screenshot and save file
 CTRL+Prtscrn key: `gnome-screenshot -a –file=[FILENAME]`
 
 #### Monitor Nvidia GPU performance
