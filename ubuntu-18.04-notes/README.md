@@ -1,5 +1,8 @@
 # ubuntu-18.04-notes
 
+#### tar unpacking:
+`tar xzf <smartgit*.tar.gz>`
+
 #### Hide top bar
 install "Hide top bar" software
 
