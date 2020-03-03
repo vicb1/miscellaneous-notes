@@ -1,5 +1,14 @@
 # ubuntu-18.04-notes
 
+#### Smartgit installation
+https://www.syntevo.com/smartgit/download/#installation-instructions
+
+#### Anaconda installation
+https://www.digitalocean.com/community/tutorials/how-to-install-the-anaconda-python-distribution-on-ubuntu-18-04
+
+#### Pycharm installation
+https://www.jetbrains.com/help/pycharm/installation-guide.html#
+
 #### tar unpacking:
 `tar xzf <smartgit*.tar.gz>`
 
@@ -36,9 +45,6 @@ Additional resource:
 #### Nvidia on Docker
 - https://medium.com/the-artificial-impostor/docker-nvidia-gpu-nvidia-docker-808b23e1657
 - https://github.com/NVIDIA/nvidia-docker/wiki/Frequently-Asked-Questions#setting-up
-
-#### Anaconda install resources
-- https://www.digitalocean.com/community/tutorials/how-to-install-the-anaconda-python-distribution-on-ubuntu-18-04
 
 #### Ubuntu terminal ssh connection
 `ssh -X vbajenaru3@buffet01.cc.gatech.edu`
