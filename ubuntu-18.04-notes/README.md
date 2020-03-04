@@ -1,5 +1,8 @@
 # ubuntu-18.04-notes
 
+#### move windows to corners
+From software installer: search "Put Windows"
+
 #### Smartgit installation
 https://www.syntevo.com/smartgit/download/#installation-instructions
 
