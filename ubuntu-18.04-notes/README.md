@@ -6,6 +6,9 @@ From software installer: install "Put Windows"
 #### add Dock
 From software installer: install "Dock"
 
+#### minimize all/restore all of one type of program on click on dock
+in terminal, run: `gsettings set org.gnome.shell.extensions.dash-to-dock click-action 'minimize-or-overview'`
+
 #### add minimize, maximize, close buttons
 in terminal, run: `gsettings set org.gnome.desktop.wm.preferences button-layout ":minimize,maximize,close"`
 
