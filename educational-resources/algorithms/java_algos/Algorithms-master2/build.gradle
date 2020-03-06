@@ -1,0 +1,59 @@
+apply plugin: 'java'
+apply plugin: "com.github.sherter.google-java-format"
+apply plugin: 'application'
+
+mainClassName = findProperty("main") ?: "com.williamfiset.algorithms.${findProperty("algorithm") ?: 'missingPackage.missingClass'}"
+
+// https://github.com/sherter/google-java-format-gradle-plugin
+buildscript {
+  repositories {
+    maven {
+      url "https://plugins.gradle.org/m2/"
+    }
+  }
+  dependencies {
+    classpath "gradle.plugin.com.github.sherter.google-java-format:google-java-format-gradle-plugin:0.8"
+  }
+}
+
+// Assume Java 8
+sourceCompatibility = 1.8
+targetCompatibility = 1.8
+
+repositories {
+  mavenLocal()
+  mavenCentral()
+}
+
+dependencies {
+  
+  // JUnit framework
+  testCompile 'junit:junit:4.+'
+  compile 'junit:junit:4.+'
+
+  // JUnit 5 / Jupiter
+  testImplementation('org.junit.jupiter:junit-jupiter-api:5.4.2')
+  testRuntime('org.junit.jupiter:junit-jupiter-engine:5.4.2')
+   
+  // Test mocking framework
+  testCompile "org.mockito:mockito-core:1.+"
+
+  // Google Guava lib
+  compile group: 'com.google.guava', name: 'guava', version: '22.0'
+
+  // Google truth API
+  compile "com.google.truth:truth:0.36"
+
+  // Apache commons lang
+  compile 'org.apache.commons:commons-lang3:3.6'
+}
+
+test {
+  dependsOn cleanTest
+  testLogging.showStandardStreams = true
+}
+
+task buildDependenciesFolder(type: Copy) {
+  from configurations.compile
+  into './dependencies'
+}
