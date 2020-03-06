@@ -18,6 +18,9 @@ https://www.syntevo.com/smartgit/download/#installation-instructions
 #### Anaconda installation
 https://www.digitalocean.com/community/tutorials/how-to-install-the-anaconda-python-distribution-on-ubuntu-18-04
 
+##### if anaconda-navigator command or jupyter-lab commands don't work:
+run: `export PATH=/home/anaconda3/bin:$PATH`
+
 #### Pycharm installation
 https://www.jetbrains.com/help/pycharm/installation-guide.html#
 
