@@ -1,7 +1,13 @@
 # ubuntu-18.04-notes
 
 #### move windows to corners
-From software installer: search "Put Windows"
+From software installer: install "Put Windows"
+
+#### add Dock
+From software installer: install "Dock"
+
+#### add minimize, maximize, close buttons
+`gsettings set org.gnome.desktop.wm.preferences button-layout ":minimize,maximize,close"`
 
 #### Smartgit installation
 https://www.syntevo.com/smartgit/download/#installation-instructions
