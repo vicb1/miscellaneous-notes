@@ -1,5 +1,11 @@
 # ubuntu-18.04-notes
 
+#### Monitor Nvidia GPU performance
+`watch -d -n 0.5 nvidia-smi`
+
+#### Monitor CPU performance
+`htop`
+
 #### move windows to corners
 From software installer: install "Put Windows"
 
@@ -35,9 +41,6 @@ Prtscrn key: `gnome-screenshot –ac` or `gnome-screenshot -ac -a –file=[FILEN
 
 #### Add new keyboard shortcut for taking screenshot and save file
 CTRL+Prtscrn key: `gnome-screenshot -a –file=[FILENAME]`
-
-#### Monitor Nvidia GPU performance
-`watch -d -n 0.5 nvidia-smi`
 
 #### Nvidia 1070 GPU install resources
 - https://developer.nvidia.com/cuda-downloads?target_os=Linux&target_arch=x86_64&target_distro=Ubuntu&target_version=1804&target_type=debnetwork 
