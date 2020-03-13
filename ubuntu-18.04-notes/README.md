@@ -23,6 +23,7 @@ https://www.syntevo.com/smartgit/download/#installation-instructions
 
 #### Anaconda installation
 https://www.digitalocean.com/community/tutorials/how-to-install-the-anaconda-python-distribution-on-ubuntu-18-04
+https://www.anaconda.com/distribution/#linux
 
 ##### if anaconda-navigator or jupyter-lab commands don't work:
 run: `export PATH=/home/anaconda3/bin:$PATH`
