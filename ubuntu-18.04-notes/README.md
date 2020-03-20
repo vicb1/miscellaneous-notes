@@ -43,6 +43,9 @@ Prtscrn key: `gnome-screenshot –ac` or `gnome-screenshot -ac -a –file=[FILEN
 #### Add new keyboard shortcut for taking screenshot and save file
 CTRL+Prtscrn key: `gnome-screenshot -a –file=[FILENAME]`
 
+#### Ubuntu MATE add keyboard shortcut for screenshot
+Prtscrn key: `mate-screenshot -a`
+
 #### Nvidia 1070 GPU install resources
 - https://developer.nvidia.com/cuda-downloads?target_os=Linux&target_arch=x86_64&target_distro=Ubuntu&target_version=1804&target_type=debnetwork 
 - https://hackernoon.com/up-and-running-with-ubuntu-nvidia-cuda-cudnn-tensorflow-and-pytorch-a54ec2ec907d 
