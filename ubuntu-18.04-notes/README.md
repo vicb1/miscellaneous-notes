@@ -44,7 +44,7 @@ Prtscrn key: `gnome-screenshot –ac` or `gnome-screenshot -ac -a –file=[FILEN
 CTRL+Prtscrn key: `gnome-screenshot -a –file=[FILENAME]`
 
 #### Ubuntu MATE add keyboard shortcut for screenshot
-Prtscrn key: `mate-screenshot -a`
+Prtscrn key: `bash -c "sleep 0.1 && mate-screenshot -a"`
 
 #### Nvidia 1070 GPU install resources
 - https://developer.nvidia.com/cuda-downloads?target_os=Linux&target_arch=x86_64&target_distro=Ubuntu&target_version=1804&target_type=debnetwork 
