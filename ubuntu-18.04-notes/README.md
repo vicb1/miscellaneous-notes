@@ -6,6 +6,14 @@
 #### Monitor CPU performance
 `htop`
 
+#### Switch windows Ubuntu Mate
+`export GIO_EXTRA_MODULES=/usr/lib/x86_64-linux-gnu/gio/modules/` <br>
+Then, per: https://github.com/mate-desktop/marco/blob/master/src/org.mate.marco.gschema.xml <br>
+`gsettings set org.mate.Marco.global-keybindings switch-group '<Alt>Tab'`<br>
+`gsettings set org.mate.Marco.global-keybindings cycle-group '<Alt>grave'`<br>
+`gsettings set org.mate.Marco.global-keybindings switch-windows '<Alt>Esc'`<br>
+`gsettings set org.mate.Marco.global-keybindings switch-windows-all '<Alt>Esc'`<br>
+
 #### move windows to corners
 From software installer: install "Put Windows"
 
