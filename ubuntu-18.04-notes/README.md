@@ -11,7 +11,6 @@
 Then, per: https://github.com/mate-desktop/marco/blob/master/src/org.mate.marco.gschema.xml <br>
 `gsettings set org.mate.Marco.global-keybindings switch-group '<Alt>Tab'`<br>
 `gsettings set org.mate.Marco.global-keybindings cycle-group '<Alt>grave'`<br>
-`gsettings set org.mate.Marco.global-keybindings switch-windows '<Alt>Esc'`<br>
 `gsettings set org.mate.Marco.global-keybindings switch-windows-all '<Alt>Esc'`<br>
 
 #### move windows to corners
