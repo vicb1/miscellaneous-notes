@@ -1,6 +1,6 @@
 # cheap-computer-build
 
-I was able to create this PC build for ~$450, which is a steal compared to a similar spec'ed COTS option
+I was able to create this PC build for ~$400, which is a steal compared to [similarly spec'ed COTS options](https://www.newegg.com/p/pl?N=100897449%20601195636&Order=PRICE)
 
 ![image](https://raw.githubusercontent.com/vicb1/miscellaneous-notes/master/cheap-computer-build-1.jpg)
 
@@ -23,4 +23,4 @@ I was able to create this PC build for ~$450, which is a steal compared to a sim
 
 Note that for a second graphics card to fit in the Optiplex 9010, the bottom of the case would have to be dremeled off, which I may play with at one point
 
-Also the Optiplex 9010 has a [Intel Q77 Express chipset](http://www.cpu-upgrade.com/mb-Intel_(chipsets)/Q77_Express.html), so the [i7-3770K](https://www.ebay.com/sch/i.html?_from=R40&_nkw=i7-3770K&_sacat=0&_sop=15) seems to be the best processor the computer can support.  Another strategy is to buy a cheaper PC with a worse processor, with a compatible higher performance processor.
+Also the Optiplex 9010 has an [Intel Q77 Express chipset](http://www.cpu-upgrade.com/mb-Intel_(chipsets)/Q77_Express.html), so the [i7-3770K](https://www.ebay.com/sch/i.html?_from=R40&_nkw=i7-3770K&_sacat=0&_sop=15) seems to be the best processor the computer can support.  Another strategy is to buy a cheaper PC with a worse processor, along with a separate compatible higher performance processor.
