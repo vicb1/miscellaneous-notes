@@ -6,9 +6,7 @@ I was able to create this PC build for \~$400, which is a steal compared to [sim
 
 ## Components
 
-[Dell Optiplex MT](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313.TR4.TRC0.A0.H0.Xoptiplex+9010+mt.TRS0&_nkw=optiplex+9010+mt&_sacat=0&LH_TitleDesc=0&_sop=15&_osacat=0&_odkw=optiplex+90+mt&LH_BIN=1 ), bought for the enclosure/motherboard/processor.  I got a Dell Optiplex 9010 MT because it had a descent processor, 2 PCI slots (for 2 graphics cards), and high memory capability.
-
-[Spec sheets like this](https://i.dell.com/sites/csdocuments/Shared-Content_data-Sheets_Documents/en/aa/Dell_OptiPlex_9010_spec_sheet.pdf  ) can still be found to get the full information on a Dell computer
+[Dell Optiplex MT](https://www.ebay.com/sch/i.html?_from=R40&_trksid=p2334524.m570.l1313.TR4.TRC0.A0.H0.Xoptiplex+9010+mt.TRS0&_nkw=optiplex+9010+mt&_sacat=0&LH_TitleDesc=0&_sop=15&_osacat=0&_odkw=optiplex+90+mt&LH_BIN=1 ), bought for the enclosure/motherboard/processor.  I got a Dell Optiplex 9010 MT because it had a descent processor, 2 PCI slots (for 2 graphics cards), and high memory capability.  [Spec sheets like this](https://i.dell.com/sites/csdocuments/Shared-Content_data-Sheets_Documents/en/aa/Dell_OptiPlex_9010_spec_sheet.pdf  ) can still be found to get the full information on a Dell computer
 
 [Compatible memory](https://www.ebay.com/sch/i.html?_from=R40&_trksid=m570.l1313&_nkw=PC3-12800U+DDR3+Dell+Optiplex+9010&_sacat=0  ), I got 4x8GB
 
