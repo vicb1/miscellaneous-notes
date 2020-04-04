@@ -1,6 +1,6 @@
 # cheap-computer-build
 
-I was able to create this PC build for ~$400, which is a steal compared to [similarly spec'ed COTS options](https://www.newegg.com/p/pl?N=100897449%20601195636&Order=PRICE)
+I was able to create this PC build for ~$400, which is a steal compared to [similarly spec'ed COTS options](https://www.newegg.com/p/pl?N=100897449%20601195636&Order=PRICE).  This build is based on a Dell Optiplex MT (~$100) which provides descent savings compared to a regular PC build where you'd have to buy a separate case/motherboard/processor (~$250).
 
 ![image](https://raw.githubusercontent.com/vicb1/miscellaneous-notes/master/cheap-computer-build-2.jpg)
 
@@ -17,7 +17,7 @@ I was able to create this PC build for ~$400, which is a steal compared to [simi
 
 [Graphics card](https://www.ebay.com/sch/i.html?_from=R40&_nkw=evga+1060&_sacat=0&LH_BIN=1&_sop=15), I got a used EVGA 1060 SC because it was a good price for the performance.  Careful not to get too large of a graphics card for the PC, for example for the Optiplex 9010 MT, fitting in the EVGA 1060 SC only has 0.5 inches left over before interfering with a motherboard SATA port.  There are also some [uncomfortably cheap 1050Ti's](https://www.ebay.com/itm/GTX1050-750Ti-970-960-1-2-4GB-Memory-GDDR5-HDMI-Graphics-Card-for-NVIDIA-GeForce/202706305731?hash=item2f323cc2c3%3Am%3AmijheVp1STfJf8pgU4Ix6qw&LH_BIN=1 ), if you're a risk taker
 
-[Power supply](https://www.newegg.com/Power-Supplies/Category/ID-32  ), I was able to catch a Gold standard 650W one for $60, which I think would be able to handle 2 1070 graphics cards.  The power supply I got was oversized for the Optiplex 9010, so I had to remove the cover latching mechanism for it to fit, and just used a bolt/nut instead to hold the cover on.
+[Power supply](https://www.newegg.com/Power-Supplies/Category/ID-32  ), I was able to catch a Gold standard 650W one for $60, which I think would be able to handle 2 1060 graphics cards.  The power supply I got was oversized for the Optiplex 9010, so I had to remove the cover latching mechanism for it to fit, and just used a bolt/nut instead to hold the cover on.
 
 ## Additional options
 
