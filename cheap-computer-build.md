@@ -1,6 +1,6 @@
 # cheap-computer-build
 
-I was able to create this PC build for ~$400, which is a steal compared to [similarly spec'ed COTS options](https://www.newegg.com/p/pl?N=100897449%20601195636&Order=PRICE).  This build is based on a Dell Optiplex MT (~$100) which provides descent savings compared to a regular PC build where you'd have to buy a separate case/motherboard/processor (~$250).
+I was able to create this PC build for about $400, which is a steal compared to [similarly spec'ed COTS options](https://www.newegg.com/p/pl?N=100897449%20601195636&Order=PRICE).  This build is based on a Dell Optiplex MT (~$100) which provides descent savings compared to a regular PC build where you'd have to buy a separate case/motherboard/processor (~$250).
 
 ![image](https://raw.githubusercontent.com/vicb1/miscellaneous-notes/master/cheap-computer-build-2.jpg)
 
