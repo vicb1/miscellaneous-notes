@@ -2,7 +2,7 @@
 
 I was able to create this PC build for ~$400, which is a steal compared to [similarly spec'ed COTS options](https://www.newegg.com/p/pl?N=100897449%20601195636&Order=PRICE)
 
-![image](https://raw.githubusercontent.com/vicb1/miscellaneous-notes/master/cheap-computer-build-1.jpg)
+![image](https://raw.githubusercontent.com/vicb1/miscellaneous-notes/master/cheap-computer-build-2.jpg)
 
 ## Components
 
