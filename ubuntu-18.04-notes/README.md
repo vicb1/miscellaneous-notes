@@ -1,4 +1,4 @@
-# ubuntu-18.04-notes
+# ubuntu-18.04/20.04-notes
 
 #### Monitor Nvidia GPU performance
 `watch -d -n 0.5 nvidia-smi`
@@ -44,6 +44,7 @@ https://www.jetbrains.com/help/pycharm/installation-guide.html#
 `tar xzf <smartgit*.tar.gz>`
 
 #### Hide top bar
+`sudo apt install gnome-shell-extension-autohidetopbar` <br>
 install "Hide top bar" software
 
 #### Add new keyboard shortcut for taking screenshot and copy to clipboard
