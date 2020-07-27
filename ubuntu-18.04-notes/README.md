@@ -44,8 +44,8 @@ https://www.jetbrains.com/help/pycharm/installation-guide.html#
 `tar xzf <smartgit*.tar.gz>`
 
 #### Hide top bar
-`sudo apt install gnome-shell-extension-autohidetopbar` <br>
-install "Hide top bar" software
+https://extensions.gnome.org/extension/545/hide-top-bar/
+install chrome extension, turn this feature on
 
 #### Add new keyboard shortcut for taking screenshot and copy to clipboard
 Prtscrn key: `gnome-screenshot –ac` or `gnome-screenshot -ac -a –file=[FILENAME]`
