@@ -6,6 +6,10 @@
 #### Monitor CPU performance
 `htop`
 
+#### Install Nvidia drivers, install latest version
+`apt search nvidia-driver*`<br>
+`sudo apt install nvidia-driver-455 nvidia-settings`
+
 #### Switch windows Ubuntu Mate
 Then, per: https://github.com/mate-desktop/marco/blob/master/src/org.mate.marco.gschema.xml <br>
 `export GIO_EXTRA_MODULES=/usr/lib/x86_64-linux-gnu/gio/modules/` <br>
