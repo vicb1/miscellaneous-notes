@@ -7,8 +7,11 @@
 `htop`
 
 #### Install Nvidia drivers, install latest version
+`sudo add-apt-repository ppa:graphics-drivers/ppa`<br>
+`sudo add-apt-repository ppa:graphics-drivers/ppa`<br>
 `apt search nvidia-driver*`<br>
-`sudo apt install nvidia-driver-455 nvidia-settings`
+`sudo apt install nvidia-driver-455 nvidia-settings`<br>
+https://linuxconfig.org/how-to-install-the-nvidia-drivers-on-ubuntu-20-04-focal-fossa-linux
 
 #### Switch windows Ubuntu Mate
 Then, per: https://github.com/mate-desktop/marco/blob/master/src/org.mate.marco.gschema.xml <br>
