@@ -39,3 +39,7 @@ Bell curve formula equation and parameter interaction:
 
 #### References:
 - https://en.wikipedia.org/wiki/Skew_normal_distribution
+
+## Tools
+- 3d/4d visualization of grid searches, perform all combinations and display all graphs at once
+- grid search add rows to csv file (or db table), one row for each grid search, along with output metrics.  Able to be interrupted and started again, to not search the same set of parameters again.
