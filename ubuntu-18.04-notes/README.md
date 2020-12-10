@@ -1,5 +1,19 @@
 # ubuntu-18.04/20.04-notes
 
+#### Start terminal on startup, and give command automatically:
+Create a `.desktop` file and place into folder `/home/vic/.config/autostart`, with contents:
+```
+[Desktop Entry]
+Version=1.0
+Name=Test        
+Comment=Test the terminal running a command inside it
+Exec=gnome-terminal -e "bash -c 'echo hello;$SHELL'"
+Icon=utilities-terminal
+Terminal=false
+Type=Application
+Categories=Application;
+```
+
 #### Monitor Nvidia GPU performance
 `watch -d -n 0.5 nvidia-smi`
 
