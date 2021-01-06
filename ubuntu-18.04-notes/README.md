@@ -17,6 +17,9 @@ Categories=Application;
 #### Monitor Nvidia GPU performance
 `watch -d -n 0.5 nvidia-smi`
 
+#### GPU for DL
+https://timdettmers.com/2020/09/07/which-gpu-for-deep-learning/
+
 #### Monitor CPU performance
 `htop`
 
