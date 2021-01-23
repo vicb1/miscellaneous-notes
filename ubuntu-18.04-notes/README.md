@@ -1,5 +1,15 @@
 # ubuntu-18.04/20.04-notes
 
+#### software updater
+```
+sudo snap remove snap-store
+sudo snap install snap-store
+
+sudo apt clean # clean list of cached packages so Ubuntu Software can read them
+sudo apt update && sudo apt upgrade
+sudo apt autoremove gnome-software && sudo apt install gnome-software
+```
+
 #### Start terminal on startup, and give command automatically:
 Create a `.desktop` file and place into folder `/home/vic/.config/autostart`, with contents:
 ```
