@@ -3,7 +3,8 @@
 #### show grub at startup
 ```
 sudo nano /etc/default/grub
-*comment out #GRUB_TIMEOUT_STYLE=hidden
+*comment out: #GRUB_TIMEOUT_STYLE=hidden
+*make: GRUB_TIMEOUT=*NON-ZERO*
 sudo update-grub
 ```
 
