@@ -1,5 +1,12 @@
 # ubuntu-18.04/20.04-notes
 
+#### show grub at startup
+```
+sudo nano /etc/default/grub
+*comment out #GRUB_TIMEOUT_STYLE=hidden
+sudo update-grub
+```
+
 #### software updater
 ```
 sudo snap remove snap-store
