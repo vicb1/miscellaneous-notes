@@ -11,7 +11,7 @@ Other helpful links
 - https://community.sonarsource.com/t/update-to-sonarqube-9-6-0-59041-missing-files/70117/20
 - https://www.vultr.com/docs/how-to-use-sonarqube-on-ubuntu-22-04-lts/
 
-I run after Sonarqube is working, within the `minc/` directory in a terminal for generating the report (this is only provided as an example, the first and last lines will be different for others):
+Command I run after Sonarqube is working, within the `minc/` directory in a terminal for generating the report (this is only provided as an example, the first and last lines will be different for others):
 ```
 /home/<user>/Documents/sonar-scanner-4.8.0.2856-linux/bin/sonar-scanner \
 -Dsonar.projectKey=sonar-minc \
